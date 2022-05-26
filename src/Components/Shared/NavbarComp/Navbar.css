@@ -1,0 +1,14 @@
+.Navbar {
+    background-color: #F1F3FF;
+}
+
+.brand {
+    width: 100px;
+    height: 35px;
+    background-color: #0D28A6;
+}
+
+Nav .listnav {
+    color: black;
+    font-weight: bold;
+}

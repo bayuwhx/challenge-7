@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+}
+
+li a:link {
+    text-decoration: none;
+}
+
+.brand {
+    width: 100px;
+    height: 35px;
+    background-color: #0D28A6;
+}

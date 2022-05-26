@@ -18,7 +18,7 @@ export const JumboTron = () => {
                                 kualitas terbaik dengan harga terjangkau. Selalu siap melayani
                                 kebutuhanmu untuk sewa mobil selama 24 jam.
                             </p>
-                            <Button variant="success" href="/cars">
+                            <Button variant="success" href="/sewa">
                                 Mulai sewa Mobil
                             </Button>{" "}
                         </div>

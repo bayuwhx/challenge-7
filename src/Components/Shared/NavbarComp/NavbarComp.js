@@ -38,11 +38,11 @@ export const NavbarComp = ({
                             <DropdownButton
                                 variant="success"
                                 as={ButtonGroup}
-                                title="Account"
+                                title="Register"
                                 id="bg-nested-dropdown"
                             >
                                 <Dropdown.Item href="/">Landing Page</Dropdown.Item>
-                                <Dropdown.Item href="/cars">Sewa Mobil</Dropdown.Item>
+                                <Dropdown.Item href="/sewa">Sewa Mobil</Dropdown.Item>
                             </DropdownButton>
                         </ButtonGroup>
                     </Nav>

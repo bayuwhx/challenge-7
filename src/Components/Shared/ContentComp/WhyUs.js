@@ -14,7 +14,7 @@ export const WhyUs = () => {
                 <Row xs={1} lg={4} md={2}>
                     <Card
                         className="col-lg-3 mb-3"
-                        style={{ width: "18rem", marginLeft: "0.8em" }}
+                        style={{ width: "18rem", marginLeft: "0.8em", borderRadius: "10px" }}
                     >
                         <Card.Img
                             className="ms-3 mt-3"
@@ -33,7 +33,7 @@ export const WhyUs = () => {
 
                     <Card
                         className="col-lg-3 mb-3"
-                        style={{ width: "18rem", marginLeft: "2.3em" }}
+                        style={{ width: "18rem", marginLeft: "2.3em", borderRadius: "10px" }}
                     >
                         <Card.Img
                             className="ms-3 mt-3"
@@ -52,7 +52,7 @@ export const WhyUs = () => {
 
                     <Card
                         className="col-lg-3 mb-3"
-                        style={{ width: "18rem", marginLeft: "2.3em" }}
+                        style={{ width: "18rem", marginLeft: "2.3em", borderRadius: "10px" }}
                     >
                         <Card.Img
                             className="ms-3 mt-3"
@@ -71,7 +71,7 @@ export const WhyUs = () => {
 
                     <Card
                         className="col-lg-3 mb-3"
-                        style={{ width: "18rem", marginLeft: "2.3em" }}
+                        style={{ width: "18rem", marginLeft: "2.3em", borderRadius: "10px" }}
                     >
                         <Card.Img
                             className="ms-3 mt-3"
